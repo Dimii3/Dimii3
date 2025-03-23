@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior front-end developer
 --------------------------
 
-Hi there! I'm a beginner front-end developer with a passion for creating beautiful and functional web applications..
+Hi there! I'm a front-end developer with a passion for creating beautiful and functional web applications..
 
 *   🌍  I'm based in Poland/Cracow
 *   🖥️  See my portfolio at [My website](http://www.carrotcoding.pl/)
 *   ✉️  You can contact me at [dawid.marchewczyk@gmail.com](mailto:dawid.marchewczyk@gmail.com)
-*   🧠  I'm learning React/Tailwind CSS/Node.js
+*   🧠  I'm learning NextJS/Node.js
 
 ### Skills 
 <p align="left">

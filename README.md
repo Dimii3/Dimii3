@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dawid Marchewczyk
 =========================================================================================================================================
 
-Junior front-end developer
+Web designer & Frontend developer
 --------------------------
 
 Hi there! I'm a front-end developer with a passion for creating beautiful and functional web applications..
